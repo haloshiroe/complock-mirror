@@ -1,0 +1,9 @@
+CompLock load order: pak01 loads first, and a lower number wins when two paks change the same file.
+
+pak01_dir.vpk  HUD++  (hud.vpk)
+pak02_dir.vpk  Particle Pruning (stock tracers and hit effects)  (particlepruning_stocktracers.vpk)
+pak03_dir.vpk  Sound stack update cap  (soundcap.vpk)
+pak04_dir.vpk  Brighter lighting  (brighterlighting.vpk)
+pak05_dir.vpk  jcStani's HP Bars  (hpbars.vpk)
+pak06_dir.vpk  Thicker outlines (DX11)  (dx11outlines.vpk)
+pak07_dir.vpk  Thicker outlines (Vulkan)  (vulkanoutlines.vpk)

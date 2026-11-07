@@ -1,0 +1,8 @@
+CompLock optional mods: copy the ones you want into the addons folder next to this one. One with the same
+number as a pak in addons replaces it.
+
+pak02_dir.vpk  Particle Pruning (reduced tracers and hit effects)  (particlepruning.vpk)
+pak08_dir.vpk  Low detail map  (lowdetailmap.vpk)
+pak09_dir.vpk  Low-poly troopers  (lowpolytroopers.vpk)
+pak10_dir.vpk  KovaaK's hit sounds  (hitsounds.vpk)
+pak11_dir.vpk  No music, low gun volume  (nomusiclowgunvolume.vpk)
