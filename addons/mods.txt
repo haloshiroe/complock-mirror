@@ -1,9 +1,19 @@
-CompLock load order: pak01 loads first, and a lower number wins when two paks change the same file.
+CompLock pack, made with the Pack Builder. pak01 loads first, and a lower number wins when two paks
+change the same file. Delete these files to remove it, then verify the game files in Steam.
 
 pak01_dir.vpk  HUD++  (hud.vpk)
 pak02_dir.vpk  Particle Pruning (stock tracers and hit effects)  (particlepruning_stocktracers.vpk)
 pak03_dir.vpk  Sound stack update cap  (soundcap.vpk)
 pak04_dir.vpk  Brighter lighting  (brighterlighting.vpk)
 pak05_dir.vpk  jcStani's HP Bars  (hpbars.vpk)
-pak06_dir.vpk  Thicker outlines (DX11)  (dx11outlines.vpk)
-pak07_dir.vpk  Thicker outlines (Vulkan)  (vulkanoutlines.vpk)
+pak06_dir.vpk  Low detail map  (lowdetailmap.vpk)
+
+gameinfo.gi: CompLock's, with
+  "citadel_damage_text_batching_window_individual" "2"
+  "citadel_unit_status_delta_decay_delay" "0"
+  "citadel_unit_status_delta_decay_rate" "10"
+  "citadel_unit_status_healthbar_highlight_speed" "100"
+  "cl_phys_enabled" "false"
+  "cl_disable_ragdolls" "true"
+
+This pack in the Pack Builder: https://deadlockconfig.com/?pack=soundcap,particles:stock,lowdetailmap,brighterlighting,physics,hpbars#build

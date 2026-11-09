@@ -8,7 +8,7 @@
 //           deadlockconfig.com - by jcStani and HoppCX
 //    Gameinfo cvars tested & crafted by HoppCX for build 6844
 // ==============================================================
-
+// The optional addons folder is outdated.
 "GameInfo"
 {
 	game 		"citadel"
@@ -502,6 +502,14 @@
 
 	ConVars
 	{
+		// CompLock Pack Builder
+		"citadel_damage_text_batching_window_individual" "2"
+		"citadel_unit_status_delta_decay_delay" "0"
+		"citadel_unit_status_delta_decay_rate" "10"
+		"citadel_unit_status_healthbar_highlight_speed" "100"
+		"cl_phys_enabled" "false"
+		"cl_disable_ragdolls" "true"
+
 		"r_particle_min_timestep" "0.00833"
 		"cl_generate_postdataupdatepreserved" "false"
 		"panorama_min_comp_layer_cache_cost" "0"

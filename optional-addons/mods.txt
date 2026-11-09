@@ -6,3 +6,5 @@ pak08_dir.vpk  Low detail map  (lowdetailmap.vpk)
 pak09_dir.vpk  Low-poly troopers  (lowpolytroopers.vpk)
 pak10_dir.vpk  KovaaK's hit sounds  (hitsounds.vpk)
 pak11_dir.vpk  No music, low gun volume  (nomusiclowgunvolume.vpk)
+
+//Folder is outdated, is only here for historical archival
